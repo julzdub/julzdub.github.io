@@ -1,0 +1,35 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open with Live Server",
+      "type": "shell",
+      "command": "echo 'Install the Live Server extension and right-click on index.html to open with Live Server'",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "Open in Default Browser",
+      "type": "shell",
+      "windows": {
+        "command": "explorer ${workspaceFolder}\\index.html"
+      },
+      "linux": {
+        "command": "xdg-open ${workspaceFolder}/index.html"
+      },
+      "osx": {
+        "command": "open ${workspaceFolder}/index.html"
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    }
+  ]
+}
