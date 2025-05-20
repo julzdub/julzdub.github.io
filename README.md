@@ -9,14 +9,6 @@ A lightweight Bootstrap website that displays a professional resume with multipl
 - Resume content loaded from a Markdown file
 - Modern and clean Bootstrap 5 design
 
-## Getting Started
-
-1. Edit the `resume.md` file to add your own resume content
-2. Replace `profile-placeholder.jpg` in the `assets` folder with your own profile image
-3. Customize the content in `index.html` to personalize the Home and About sections
-4. Modify styles in `css/styles.css` if you want to change the appearance
-5. Open `index.html` in a web browser to view your website
-
 ## Structure
 
 - `index.html` - Main HTML file containing the website structure
