@@ -61,7 +61,7 @@ Dedicated Full Stack Engineer with a proven track record in designing, developin
 - Designing multiple mobile-friendly web applications, ensuring responsive and intuitive user experiences.
 
 **Key Projects:**
-- Built a real-time inventory management system for agricultural equipment.
+- Built real-time inventory management systems for agricultural businesses.
 - Developed a mobile-first application for farm workers to log and monitor daily activities.
 - Built an application for managing permissions across multiple systems.
 
