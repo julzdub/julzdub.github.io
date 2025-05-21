@@ -54,11 +54,11 @@ Dedicated Full Stack Engineer with a proven track record in designing, developin
 ### Groundwork Systems – Yakima, Washington
 **Full Stack Engineer** (June 2022 – Present)
 
-- Designed and implemented scalable web applications tailored for the agricultural industry using Angular and C#.
-- Developed and maintained RESTful APIs to facilitate seamless integration between front-end interfaces and back-end systems.
-- Optimized SQL database structures to enhance application performance and ensure data integrity.
-- Regularly collaborated to define project requirements, timelines, and deliverables.
-- Designed multiple mobile-friendly web applications, ensuring responsive and intuitive user experiences.
+- Designing and implementing scalable web applications tailored for the agricultural industry using Angular and C#.
+- Developing and maintaining RESTful APIs to facilitate seamless integration between front-end interfaces and back-end systems.
+- Optimizing SQL database structures to enhance application performance and ensure data integrity.
+- Regularly collaborating to define project requirements, timelines, and deliverables.
+- Designing multiple mobile-friendly web applications, ensuring responsive and intuitive user experiences.
 
 **Key Projects:**
 - Built a real-time inventory management system for agricultural equipment.
