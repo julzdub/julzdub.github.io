@@ -39,9 +39,11 @@ Spokane, WA (Open to Hybrid/Relocation) | 509-251-0217 | julianwelge@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/julian-welge-193b44132) | [GitHub](https://github.com/julzdub) | [Portfolio](https://julzdub.github.io)
 
+**AI Solutions Engineer & Full Stack Engineer**
+
 ## Professional Summary
 
-Full Stack Engineer with 4+ years of experience designing scalable web applications, backend services, and operational software systems. Strong background in Angular, C#, SQL Server, REST APIs, and Azure cloud services, with growing specialization in AI-augmented development workflows and modern product engineering.
+AI Solutions Engineer and Full Stack Engineer with 4+ years of experience designing scalable web applications, backend services, and operational software systems. Strong background in Angular, C#, SQL Server, REST APIs, and Azure cloud services, with growing specialization in AI-augmented development workflows, practical automation, and modern product engineering.
 
 ## Technical Skills
 
@@ -49,7 +51,7 @@ Full Stack Engineer with 4+ years of experience designing scalable web applicati
 - **Backend:** C#, .NET, REST APIs, Microservices (TypeScript/Bun)
 - **Database:** SQL Server, Relational Data Modeling
 - **Cloud:** Azure App Services, Blob Storage, Docker, Linux
-- **AI:** OpenAI APIs, AI-assisted workflows, Prompt Engineering
+- **AI Solutions:** OpenAI APIs, AI-assisted workflows, workflow automation, prompt engineering
 - **Tools:** Git, Postman, Agile/Scrum
 
 ## Professional Experience
@@ -60,6 +62,7 @@ Full Stack Engineer with 4+ years of experience designing scalable web applicati
 - Designed and built operational software platforms using Angular, C#, and SQL Server for large-scale agricultural operations.
 - Architected systems supporting inventory management, logistics workflows, contracts, customer operations, and internal business tooling.
 - Developed RESTful APIs and backend services powering internal applications, customer-facing portals, and integrations.
+- Applied a solutions-engineering mindset to identify opportunities for automation, cleaner workflows, and more usable data across internal and customer-facing applications.
 - Owned full lifecycle development including architecture, implementation, testing, deployment, and stakeholder collaboration.
 - Collaborated with cross-functional teams and end users in fast-paced startup environments.
 
